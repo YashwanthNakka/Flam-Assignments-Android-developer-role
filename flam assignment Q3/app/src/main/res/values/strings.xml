@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Review App</string>
+    <string name="book_details">Book Details</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="error_loading_books">Error loading books</string>
+    <string name="retry">Retry</string>
+</resources> 
